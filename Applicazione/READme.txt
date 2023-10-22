@@ -1,7 +1,7 @@
 Ciao questa sborra è stata fatta da me per la gestione delle password tramite un file presente sul pc.
 Workflow:
     -Creare un file dove scrivere le password.
-    -Criptazione del file.
+
     -Menu che chiede cosa si vuole fare.
     -3 opzioni tra cui:
         -Leggere pwd.
